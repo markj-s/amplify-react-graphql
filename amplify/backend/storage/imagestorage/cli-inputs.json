@@ -1,0 +1,12 @@
+{
+  "resourceName": "imagestorage",
+  "policyUUID": "5a871764",
+  "bucketName": "mjs-amplifyapp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
